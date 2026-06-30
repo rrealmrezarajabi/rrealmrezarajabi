@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamad Reza Rajabi</h1>
-<h3 align="center">Frontend Developer moving toward Software Engineering</h3>
+<h1 align="center">Mohamad Reza Rajabi</h1>
+<h3 align="center">Frontend Developer | Transitioning toward Software Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rrealmrezarajabi&label=Profile%20views&color=0e75b6&style=flat" alt="rrealmrezarajabi" />
@@ -7,16 +7,13 @@
 
 ---
 
-### 🚀 About Me
+### About
 
-- 💻 Frontend Developer shifting focus toward **Software Engineering** and deeper development principles
-- ⚡ Passionate about building clean, fast, and scalable user interfaces
-- 🌱 Constantly learning and improving across modern web technologies
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mohamad-reza-rajabi-781678374/) | Telegram: [@rrealmrezarajabi](https://t.me/rrealmrezarajabi)
+Frontend Developer focused on building modern, scalable web applications with React and Next.js. Currently broadening my scope toward Software Engineering principles, with an emphasis on clean architecture, maintainable code, and end-to-end product quality.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -30,20 +27,17 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-<!--
-  Add your projects here. Copy the example line below and repeat for each project.
-  Replace # with the actual repo link.
--->
+**[NextStore Frontend](https://github.com/rrealmrezarajabi/NextStore-Front)**
+A full ecommerce frontend built with Next.js App Router, TypeScript, TanStack React Query, React Hook Form, and Zod. Includes a public storefront, cookie-based authentication, a customer dashboard with cart/checkout/order history, and a complete admin panel for managing products, categories, users, and orders. Covered by unit tests (Vitest) and E2E route-protection tests (Playwright).
 
-- 🔹 **[Project Name 1](#)** — one-line description of what this project does/solves
-- 🔹 **[Project Name 2](#)** — one-line description of what this project does/solves
-- 🔹 **[Project Name 3](#)** — one-line description of what this project does/solves
+**[User Management Frontend](https://github.com/rrealmrezarajabi/UserManagement-frontend)**
+An admin dashboard for managing users, built with React, TypeScript, and Vite. Features include admin authentication, paginated user listings, full CRUD operations, and search by name, email, or phone. Uses React Query for data fetching and Axios for API communication.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rrealmrezarajabi&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -56,7 +50,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamad-reza-rajabi-781678374/" target="_blank">
