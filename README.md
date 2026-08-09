@@ -27,15 +27,6 @@ Frontend Developer focused on building modern, scalable web applications with Re
 
 ---
 
-### Featured Projects
-
-**[NextStore Frontend](https://github.com/rrealmrezarajabi/NextStore-Front)**
-A full ecommerce frontend built with Next.js App Router, TypeScript, TanStack React Query, React Hook Form, and Zod. Includes a public storefront, cookie-based authentication, a customer dashboard with cart/checkout/order history, and a complete admin panel for managing products, categories, users, and orders. Covered by unit tests (Vitest) and E2E route-protection tests (Playwright).
-
-**[User Management Frontend](https://github.com/rrealmrezarajabi/UserManagement-frontend)**
-An admin dashboard for managing users, built with React, TypeScript, and Vite. Features include admin authentication, paginated user listings, full CRUD operations, and search by name, email, or phone. Uses React Query for data fetching and Axios for API communication.
-
----
 
 ### GitHub Stats
 
